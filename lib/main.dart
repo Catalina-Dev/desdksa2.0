@@ -200,7 +200,7 @@ class _MyAppState extends State<MyApp> {
               GlobalCupertinoLocalizations.delegate,
             ],
             debugShowCheckedModeBanner: false,
-            title: 'DesdKsa',
+            title: 'DesdKsa Marketplace',
             theme: ThemeData(
               fontFamily: 'Roboto',
               visualDensity: VisualDensity.adaptivePlatformDensity,
